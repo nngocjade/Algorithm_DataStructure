@@ -1,4 +1,4 @@
-package Algorithm;
+package sorting_algorithm;
 
 public class BinarySearch {
     public static boolean binarySearchIterative (int[] array, int x){
